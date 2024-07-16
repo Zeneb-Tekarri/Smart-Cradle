@@ -2,17 +2,17 @@
 PFA 2022
 ## Project Description: Intelligent Cradle Prototype
 
-**Project Title: Design and Implementation of an Intelligent Cradle Prototype
+**Project Title:** Design and Implementation of an Intelligent Cradle Prototype
 
-**Presented by: Zeineb Tekarri and Ahlem Ben Hassen
+**Presented by:** Zeineb Tekarri and Ahlem Ben Hassen
 
-**Institution: National School of Electronics and Telecommunications of Sfax, University of Sfax
+**Institution:** National School of Electronics and Telecommunications of Sfax, University of Sfax
 
-**Supervisors: 
+**Supervisors:** 
 - Mr. Ghozzi Fahmi (Examiner)
 - Mr. Gassara Bilel (Supervisor)
 
-**Academic Year: 2021-2022
+**Academic Year:** 2021-2022
 
 ## Overview ##
 The project aims to design and develop a prototype of an intelligent cradle system using Internet of Things (IoT) technology. This system is intended to help parents monitor their baby's status remotely and ensure their safety and comfort. 
