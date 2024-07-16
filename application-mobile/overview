@@ -1,0 +1,30 @@
+### Mobile Application Description and Overview
+
+**Overview:**
+The mobile application for the Intelligent Cradle Prototype serves as the user interface for parents to monitor and control the cradle system. It provides real-time updates, video streaming, and notifications, enhancing the convenience and peace of mind for parents.
+
+**Key Features:**
+1. **Real-time Video Streaming:**
+   - The application allows parents to view a live video feed from the cradle via the ESP32 CAM module. This feature ensures parents can visually monitor their baby's status at any time from their smartphones.
+
+2. **Cry Detection Alerts:**
+   - The app sends push notifications to parents when the sound sensor detects the baby crying. This immediate alert enables parents to respond quickly to their baby's needs.
+
+3. **Cradle Control:**
+   - Parents can remotely start and stop the cradle's rocking motion through the app. This manual control feature provides additional flexibility in managing the cradle's functions.
+
+4. **Soothing Music Control:**
+   - The application includes options to play, pause, or change the soothing music that accompanies the rocking motion, allowing parents to customize the auditory environment for their baby.
+
+**Technical Implementation:**
+- **Platform:** Android (developed using Android Studio)
+- **Connectivity:** The app communicates with the NodeMCU ESP8266 module via Wi-Fi to control the cradle and receive data.
+- **User Interface:** The UI is designed to be user-friendly and intuitive, with easy navigation and clear displays of video feed, notifications, and control options.
+- **Notifications:** Implemented using Firebase Cloud Messaging (FCM) to ensure reliable and instant delivery of alerts.
+
+**User Experience:**
+- The mobile app prioritizes simplicity and ease of use, ensuring that even non-technical users can effectively operate the cradle system.
+- The real-time video streaming and instant alerts provide parents with continuous assurance about their baby's well-being.
+- Customizable controls for rocking and music enhance the app's functionality, making it a comprehensive tool for baby monitoring.
+
+In summary, the mobile application is a crucial component of the Intelligent Cradle Prototype, offering parents a seamless and reliable way to monitor and interact with the cradle system remotely.
