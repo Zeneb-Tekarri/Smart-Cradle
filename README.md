@@ -50,3 +50,7 @@ The intelligent cradle system successfully integrates IoT technology to provide 
 
 
 This project demonstrates the potential of IoT in developing practical and innovative solutions for everyday challenges, offering significant benefits for parents and caregivers.
+
+
+**Presentation :** https://www.canva.com/design/DAFCHFjV6hg/odXMOqyr32PlB8cfaZzOEw/view?utm_content=DAFCHFjV6hg&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+
